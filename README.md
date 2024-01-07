@@ -4,7 +4,7 @@
 
 💡 Estou me desenvolvendo para me tornar um desenvolvedor fullstack.
 
-📧 Sinta-se livre para entrar em contato comigo via <a href="lucasdasxz3@gmail.com">e-mail</a>
+📧 Sinta-se livre para entrar em contato comigo via <a href="mailto:lucasdasxz3@gmail.com">e-mail</a>
 
 ![Lucas Maffei](https://github-readme-stats.vercel.app/api?username=Lumasfei&show_icons=true&theme=radical)
 
